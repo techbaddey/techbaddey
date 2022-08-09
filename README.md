@@ -1,6 +1,6 @@
-# Hi there, I'm Oyinkansola Shoroye - aka Teqbaddie 👋 
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Oyinkansola Shoroye - Teqbaddie ⚡
 
-**Here's a quick summary about me**:
+### Here's a quick summary about me:
 
 - 😊 Pronouns: She/Her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
@@ -21,7 +21,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/oyinkansola_shoroye#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/oyinkansola_shoroye#gh-dark-mode-only)
 
-### Languages and Tools:
+### Languages & Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
