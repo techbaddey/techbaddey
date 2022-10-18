@@ -1,5 +1,9 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Oyinkansola Shoroye - Teqbaddie ⚡
 
+<!-- <p align="center">
+  <a href="https://github.com/ghostdev-labs/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20and%20app%20developer;Experienced%20JavaScript%20Developer;Always%20learning%20new%20things.;WELCOME%20TO%20MY%20CAVE.&font=Fira%20Code&center=true&width=550&height=45&color=#002147&vCenter=true&size=22&pause=1000"></a>
+</p> -->
+
 ### Here's a quick summary about me:
 
 - 😊 Pronouns: She/her
