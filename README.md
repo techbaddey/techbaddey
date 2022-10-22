@@ -54,5 +54,5 @@
 ### Views count:
 
 ![Teqbaddie's Visitors](https://komarev.com/ghpvc/?username=teqbaddie&color=green)
-<img src="https://visitor-badge.laobi.icu/badge?page_id=teqbaddie.teqbaddie" alt="Visitors"/>
+
 
