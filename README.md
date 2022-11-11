@@ -50,8 +50,8 @@
 
 <br/>
 <p align="center">
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=teqbaddie&show_icons=true&include_all_commits=true&font=baloo&extension=null&border=2&border_radius=6" alt="Teqbaddie's GitHub stats" /> 
-    <a href="https://leetcode.com/teqbaddie/"><img width="44%" src="https://leetcode.card.workers.dev/teqbaddie?theme=light&font=baloo&extension=null&border=1&border_radius=6"></a>
+<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=teqbaddie&show_icons=true&include_all_commits=true&font=baloo&extension=null&border=2&border_radius=6" alt="Teqbaddie's GitHub stats" /> 
+    <a href="https://leetcode.com/teqbaddie/"><img width="45%" src="https://leetcode.card.workers.dev/teqbaddie?theme=light&font=baloo&extension=null&border=1&border_radius=6"></a>
     </p>
 
 <br/>
