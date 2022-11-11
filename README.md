@@ -39,13 +39,12 @@
 <img align="left" alt="Terminal" width="23px" src="./img/terminal-dark.svg" />
 
 <br/>
-
+<br/>
 
 [twitter]: https://twitter.com/teqbaddie
 [instagram]: https://instagram.com/oyinkansola_shoroye
 [linkedin]: https://linkedin.com/in/teqbaddie
 
-<br/>
 <br/>
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teqbaddie&langs_count=8&layout=compact&font=baloo&extension=null&border=2&border_radius=6" /> 
 
