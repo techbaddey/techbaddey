@@ -28,15 +28,15 @@
 
 ### Languages & Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+<img align="left" alt="Visual Studio Code" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="20px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="20px" src="./img/terminal-light.svg" />
+<img align="left" alt="Terminal" width="20px" src="./img/terminal-dark.svg" />
 
 <br/>
 
@@ -44,14 +44,15 @@
 [twitter]: https://twitter.com/teqbaddie
 [instagram]: https://instagram.com/oyinkansola_shoroye
 [linkedin]: https://linkedin.com/in/teqbaddie
+
 <br/>
 <br/>
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teqbaddie&langs_count=8&layout=compact&font=baloo&extension=null&border=2&border_radius=6" /> 
 
 <br/>
 <p align="center">
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=teqbaddie&show_icons=true&include_all_commits=true&font=baloo&extension=null&border=2&border_radius=6" alt="Teqbaddie's GitHub stats" /> 
-    <a href="https://leetcode.com/teqbaddie/"><img width="45%" src="https://leetcode.card.workers.dev/teqbaddie?theme=light&font=baloo&extension=null&border=1&border_radius=6"></a>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=teqbaddie&show_icons=true&include_all_commits=true&font=baloo&extension=null&border=2&border_radius=6" alt="Teqbaddie's GitHub stats" /> 
+    <a href="https://leetcode.com/teqbaddie/"><img width="46%" src="https://leetcode.card.workers.dev/teqbaddie?theme=light&font=baloo&extension=null&border=1&border_radius=6"></a>
     </p>
 
 <br/>
