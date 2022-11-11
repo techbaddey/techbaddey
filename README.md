@@ -30,7 +30,7 @@
 
 <img align="left" alt="Visual Studio Code" width="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -51,8 +51,8 @@
 
 <br/>
 <p align="center">
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=teqbaddie&show_icons=true&include_all_commits=true&font=baloo&extension=null&border=2&border_radius=6" alt="Teqbaddie's GitHub stats" /> 
-    <a href="https://leetcode.com/teqbaddie/"><img width="47%" src="https://leetcode.card.workers.dev/teqbaddie?theme=light&font=baloo&extension=null&border=1&border_radius=6"></a>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=teqbaddie&show_icons=true&include_all_commits=true&font=baloo&extension=null&border=2&border_radius=6" alt="Teqbaddie's GitHub stats" /> 
+    <a href="https://leetcode.com/teqbaddie/"><img width="46%" src="https://leetcode.card.workers.dev/teqbaddie?theme=light&font=baloo&extension=null&border=1&border_radius=6"></a>
     </p>
 
 <br/>
