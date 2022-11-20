@@ -46,7 +46,7 @@
 [linkedin]: https://linkedin.com/in/teqbaddie
 
 <br/>
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teqbaddie&langs_count=8&layout=compact&font=baloo&extension=null&border=2&border_radius=6" /> 
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teqbaddie&langs_count=8&layout=compact&font=baloo&extension=null&border=2&border_radius=6" /> 
 
 <br/>
 <p align="center">
