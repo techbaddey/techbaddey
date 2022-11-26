@@ -47,7 +47,6 @@
 <img width="35" src="./img/terminal-dark.svg" />
 </p>      
 <br/>
-<br/>
 
 [twitter]: https://twitter.com/teqbaddie
 [instagram]: https://instagram.com/oyinkansola_shoroye
