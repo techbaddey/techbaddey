@@ -9,7 +9,7 @@
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
+- 🌱 I’m currently learning VueJS, PHP, and Python.
 - 😊 I’m open to open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing oyinkansolashoroye@gmail.com.
@@ -46,7 +46,10 @@
 [linkedin]: https://linkedin.com/in/teqbaddie
 
 <br/>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teqbaddie&langs_count=8&layout=compact&font=baloo&extension=null&border=2&border_radius=6" /> 
+<p align="center">
+<img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teqbaddie&langs_count=8&layout=compact&font=baloo&extension=null&border=2&border_radius=6" /> 
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=teqbaddie"  />
+</p>
 
 <br/>
 <p align="center">
