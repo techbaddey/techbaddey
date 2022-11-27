@@ -25,6 +25,9 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/oyinkansola_shoroye#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/oyinkansola_shoroye#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/globe-light.svg)](https://oyinkansolashoroye.netlify.app#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://oyinkansolashoroye.netlify.app#gh-dark-mode-only)
 
 ### Languages & Tools:
 
@@ -55,6 +58,7 @@
 [twitter]: https://twitter.com/teqbaddie
 [instagram]: https://instagram.com/oyinkansola_shoroye
 [linkedin]: https://linkedin.com/in/teqbaddie
+[globe]: https://oyinkansolashoroye.netlify.app
 
 <br/>
 <p align="center">
