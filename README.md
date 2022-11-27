@@ -42,9 +42,9 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30"/> </a> 
 <img width="30" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" />
-<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
 <img width="30" src="./img/terminal-light.svg" />
-<img width="30" src="./img/terminal-dark.svg" />
+<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
+<img width="30" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png">
 </p>      
 <br/>
 
