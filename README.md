@@ -55,7 +55,7 @@
 </p>      
 <br/>
 
-[twitter]: https://twitter.com/teqbaddie
+[twitter]: https://twitter.com/_teqbaddie
 [instagram]: https://instagram.com/oyinkansola_shoroye
 [linkedin]: https://linkedin.com/in/teqbaddie
 [globe]: https://oyinkansolashoroye.netlify.app
