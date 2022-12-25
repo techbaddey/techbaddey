@@ -10,8 +10,8 @@
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning VueJS, PHP, and Python.
-- 😊 I’m open to open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
+- 😊 I’m open to open source projects, hackathons and internships.
+- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer.
 - 📫 You can contact me by emailing oyinkansolashoroye@gmail.com.
 
 
