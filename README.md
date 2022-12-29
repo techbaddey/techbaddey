@@ -17,11 +17,11 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/teqbaddie#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/teqbaddie#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/teq_baddie#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/teq_baddie#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/oyinkansolashoroye/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/oyinkansolashoroye/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/oyinkansola-shoroye/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/oyinkansola-shoroye/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/oyinkansola_shoroye#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/oyinkansola_shoroye#gh-dark-mode-only)
