@@ -23,7 +23,10 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/oyinkansola_shoroye)
 &nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/19193399/oyinkansola-shoroye" target="_blank"><img src="./img/images-removebg-preview.png" width="24px" alt="website" /></a>
+&nbsp;&nbsp;
 [![website](./img/globe-light.svg)](https://oyinkansolashoroye.netlify.app)
+
 
 ### Languages & Tools:
 
