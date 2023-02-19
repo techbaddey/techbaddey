@@ -18,16 +18,12 @@
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/teq_baddie)
-[![website](./img/twitter-dark.svg)](https://twitter.com/teq_baddie)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/oyinkansola-shoroye)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/oyinkansola-shoroyey)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/oyinkansola_shoroye)
-[![website](./img/instagram-dark.svg)](https://instagram.com/oyinkansola_shoroye)
 &nbsp;&nbsp;
 [![website](./img/globe-light.svg)](https://oyinkansolashoroye.netlify.app)
-[![website](./img/globe-dark.svg)](https://oyinkansolashoroye.netlify.app)
 
 ### Languages & Tools:
 
