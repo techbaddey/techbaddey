@@ -65,7 +65,7 @@
 <br/>
 <p align="center">
 <img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teqbaddie&langs_count=8&layout=compact&font=baloo&extension=null&border=2&border_radius=6" /> 
-<img width="45%" height="260px" src="https://github-readme-streak-stats.herokuapp.com/?user=teqbaddie"  />
+<img width="45%" height="240px" src="https://github-readme-streak-stats.herokuapp.com/?user=teqbaddie"  />
 </p>
 
 <br/>
