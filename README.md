@@ -66,8 +66,8 @@
 | ------------- | ------------- |
 
 <p>
-<img align="center" style="display: flex; width: 46%;" src="https://github-readme-stats.vercel.app/api?username=teqbaddie&show_icons=true&include_all_commits=true" alt="Teqbaddie's GitHub stats" /> 
-<a href="https://leetcode.com/teqbaddie/"> <img align="center" style="display: flex; width: 47%;" src="https://leetcode.card.workers.dev/teqbaddie?&hide_border=true" /> <a/> 
+<img align="center" style="display: flex; width: 48%;" src="https://github-readme-stats.vercel.app/api?username=teqbaddie&show_icons=true&include_all_commits=true" alt="Teqbaddie's GitHub stats" /> 
+<a href="https://leetcode.com/teqbaddie/"> <img align="center" style="display: flex; width: 50%;" src="https://leetcode.card.workers.dev/teqbaddie?&hide_border=true" /> <a/> 
 </p>
    
 <br/>
