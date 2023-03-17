@@ -62,18 +62,15 @@
 [linkedin]: https://linkedin.com/in/teqbaddie
 [globe]: https://oyinkansolashoroye.netlify.app
 
-<br/>
-<p align="center">
-<img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teqbaddie&langs_count=8&layout=compact&font=baloo&extension=null&border=2&border_radius=6" /> 
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=teqbaddie"  />
-</p>
+---
 
-<br/>
-<p align="center">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Teqbaddie&show_icons=true&include_all_commits=true&font=baloo&extension=null&border=2&border_radius=6" alt="Teqbaddie's GitHub stats" /> 
-    <a href="https://leetcode.com/teqbaddie/"><img width="46%" src="https://leetcode.card.workers.dev/teqbaddie?theme=light&font=baloo&extension=null&border=1&border_radius=6"></a>
-    </p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=teqbaddie&show_icons=true&include_all_commits=true&hide_border=true" alt="Teqbaddie's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teqbaddie&langs_count=8&layout=compact&hide_border=true" alt="Teqbaddie's GitHub stats" /> |
+| ------------- | ------------- |
 
+
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teqbaddie&hide_border=true"  /> | <a href="https://leetcode.com/teqbaddie/"> <img align="center" src="https://leetcode.card.workers.dev/teqbaddie?&hide_border=true" /> <a/> |
+| ------------- | ------------- |
+   
 <br/>
 
 ![Teqbaddie's Visitors](https://komarev.com/ghpvc/?username=teqbaddie&color=blue)
