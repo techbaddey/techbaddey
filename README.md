@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/teq_baddie)
+[![website](./img/twitter-light.svg)](https://twitter.com/teqbaddie)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/oyinkansola-shoroye)
 &nbsp;&nbsp;
