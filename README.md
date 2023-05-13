@@ -9,7 +9,7 @@
 
 ### About me:
 - 💡 I'm an alumna of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 👨‍💻 I work consistently to stay up to date with the latest technologies in my field, I’m currently learning VueJS and TypeScript.
+- 👨‍💻 I work consistently to stay up to date with the latest technologies & trends in my field, I’m currently learning VueJS and TypeScript.
 - 🔭 I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.
 - ✨ I’m open to open source projects, hackathons and internships.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer.
