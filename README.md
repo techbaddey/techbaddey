@@ -4,6 +4,9 @@
   <a href="https://github.com/ghostdev-labs/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20loveee%20Technology!%20😍;I%20am%20a%20Software%20Developer,;A%20Technical%20Writer;An%20Entrepreneur.;I%20focus%20on%20new%20developments%20in%20my%20field.;I%20am%20passionate%20about%20all%20aspects%20of%20Tech.&font=Fira%20Code&center=true&width=550&height=45&color=#3498db&vCenter=true&size=22&pause=1000"></a>
 </p>
 
+<img  src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif" height="290px" align="right" />
+
+
 ### ⚡️ Here's a quick summary about me:
 - 💡 I'm an alumna of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 👨‍💻 I work consistently to stay up to date with the latest technologies and trends in my field, so I’m currently learning VueJS and TypeScript.
