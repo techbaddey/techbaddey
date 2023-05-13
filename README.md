@@ -5,17 +5,15 @@
 </p>
 
 ### ⚡️ Here's a quick summary about me:
-
-- 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning VueJS and TypeScript.
-- 😊 I’m open to open source projects, hackathons and internships.
+- 💡 I'm an alumna of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 👨‍💻 I work consistently to stay up to date with the latest technologies and trends in my field, so I’m currently learning VueJS and TypeScript.
+- 🔭 I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.
+- ✨ I’m open to open source projects, hackathons and internships.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer.
 - 📫 You can contact me by emailing oyinkansolashoroye@gmail.com.
 
 
 ### Connect with me:
-
 [![website](./img/twitter-light.svg)](https://twitter.com/teqbaddie)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/oyinkansola-shoroye)
