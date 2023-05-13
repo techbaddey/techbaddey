@@ -1,11 +1,10 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Oyinkansola Shoroye - Teqbaddie ⚡
+<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Oyinkansola Shoroye </h2>
 
-<br/>
 <p align="center">
   <a href="https://github.com/ghostdev-labs/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20loveee%20Technology!%20😍;I%20am%20a%20Software%20Developer,;A%20Technical%20Writer;An%20Entrepreneur.;I%20focus%20on%20new%20developments%20in%20my%20field.;I%20am%20passionate%20about%20all%20aspects%20of%20Tech.&font=Fira%20Code&center=true&width=550&height=45&color=#3498db&vCenter=true&size=22&pause=1000"></a>
 </p>
 
-### Here's a quick summary about me:
+### ⚡️ Here's a quick summary about me:
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
@@ -55,12 +54,15 @@
 <img width="30" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png">
 <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
 </p>      
-<br/>
+
 
 [twitter]: https://twitter.com/teq_baddie
 [instagram]: https://instagram.com/oyinkansola_shoroye
 [linkedin]: https://linkedin.com/in/teqbaddie
 [globe]: https://oyinkansolashoroye.netlify.app
+
+
+### :fire: Github Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teqbaddie&langs_count=8&layout=compact&hide_border=true" alt="Teqbaddie's GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teqbaddie&hide_border=true"  /> | 
 | ------------- | ------------- |
