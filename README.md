@@ -8,10 +8,10 @@
 
 
 ### About me:
-- 💡 I'm an alumna of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 I'm a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 👨‍💻 I work consistently to stay up to date with the latest technologies & trends in my field, I’m currently learning VueJS and TypeScript.
 - 🔭 I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.
-- ✨ I’m open to open source projects, hackathons and internships.
+- ✨ I’m open to open source projects and hackathons.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer.
 - 📫 You can contact me by emailing oyinkansolashoroye@gmail.com.
 
