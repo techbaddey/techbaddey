@@ -63,7 +63,7 @@
 [globe]: https://oyinkansolashoroye.netlify.app
 
 
-### :fire: Github Stats:
+### Github Stats:
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techbaddey&langs_count=8&layout=compact&hide_border=true" alt="Techbaddey's GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techbaddey&hide_border=true"  /> | 
 | ------------- | ------------- |
@@ -72,7 +72,7 @@
 <img align="center" style="display: flex; width: 48%;" src="https://github-readme-stats.vercel.app/api?username=techbaddey&show_icons=true&include_all_commits=true" alt="Techbaddey's GitHub stats" /> 
  </p>
   
- ### :fire: Leetcode Stats:
+ ### Leetcode Stats:
  <p>
 <a href="https://leetcode.com/techbaddey/"> <img align="center" style="display: flex; width: 50%;" src="https://leetcode.card.workers.dev/techbaddey?&hide_border=true" /> <a/> 
 </p>
