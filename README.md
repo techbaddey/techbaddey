@@ -17,7 +17,7 @@
 
 
 ### Connect with me:
-[![website](./img/twitter-light.svg)](https://twitter.com/teqbaddie)
+[![website](./img/twitter-light.svg)](https://twitter.com/techbaddey)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/oyinkansola-shoroye)
 &nbsp;&nbsp;
@@ -25,7 +25,7 @@
 &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/19193399/oyinkansola-shoroye" target="_blank"><img src="./img/images-removebg-preview.png" width="24px" alt="stackOverflow" /></a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/teqbaddie/" target="_blank"><img src="./img/leetcode.svg" width="24px" alt="leetCode" /></a>
+<a href="https://leetcode.com/techbaddey/" target="_blank"><img src="./img/leetcode.svg" width="24px" alt="leetCode" /></a>
 &nbsp;&nbsp;
 [![website](./img/globe-light.svg)](https://oyinkansolashoroye.netlify.app)
 
@@ -57,26 +57,26 @@
 </p>      
 
 
-[twitter]: https://twitter.com/teq_baddie
+[twitter]: https://twitter.com/techbaddey
 [instagram]: https://instagram.com/oyinkansola_shoroye
-[linkedin]: https://linkedin.com/in/teqbaddie
+[linkedin]: https://linkedin.com/in/oyinkansola-shoroye
 [globe]: https://oyinkansolashoroye.netlify.app
 
 
 ### :fire: Github Stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teqbaddie&langs_count=8&layout=compact&hide_border=true" alt="Teqbaddie's GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teqbaddie&hide_border=true"  /> | 
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techbaddey&langs_count=8&layout=compact&hide_border=true" alt="Techbaddey's GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techbaddey&hide_border=true"  /> | 
 | ------------- | ------------- |
 
 <p>
-<img align="center" style="display: flex; width: 48%;" src="https://github-readme-stats.vercel.app/api?username=teqbaddie&show_icons=true&include_all_commits=true" alt="Teqbaddie's GitHub stats" /> 
+<img align="center" style="display: flex; width: 48%;" src="https://github-readme-stats.vercel.app/api?username=techbaddey&show_icons=true&include_all_commits=true" alt="Techbaddey's GitHub stats" /> 
  </p>
   
  ### :fire: Leetcode Stats:
  <p>
-<a href="https://leetcode.com/teqbaddie/"> <img align="center" style="display: flex; width: 50%;" src="https://leetcode.card.workers.dev/teqbaddie?&hide_border=true" /> <a/> 
+<a href="https://leetcode.com/techbaddey/"> <img align="center" style="display: flex; width: 50%;" src="https://leetcode.card.workers.dev/techbaddey?&hide_border=true" /> <a/> 
 </p>
    
 <br/>
 
-![Teqbaddie's Visitors](https://komarev.com/ghpvc/?username=teqbaddie&color=blue)
+![Techbaddey's Visitors](https://komarev.com/ghpvc/?username=techbaddey&color=blue)
