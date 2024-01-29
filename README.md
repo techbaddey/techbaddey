@@ -21,7 +21,7 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/oyinkansola-shoroye)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/oyinkansola_shoroye)
+[![website](./img/instagram-light.svg)](https://instagram.com/techbaddey)
 &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/19193399/oyinkansola-shoroye" target="_blank"><img src="./img/images-removebg-preview.png" width="24px" alt="stackOverflow" /></a>
 &nbsp;&nbsp;
@@ -58,7 +58,7 @@
 
 
 [twitter]: https://twitter.com/techbaddey
-[instagram]: https://instagram.com/oyinkansola_shoroye
+[instagram]: https://instagram.com/techbaddey
 [linkedin]: https://linkedin.com/in/oyinkansola-shoroye
 [globe]: https://oyinkansolashoroye.netlify.app
 
