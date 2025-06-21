@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ghostdev-labs/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20love%20Technology!%20😍;Software%20Developer;Technical%20Writer;Tech%20Enthusiast&font=Fira%20Code&center=true&width=550&height=45&color=3498db&vCenter=true&size=22&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20love%20Technology!%20😍;Software%20Developer%20♥️;Technical%20Writer;Tech%20Enthusiast&font=Fira%20Code&center=true&width=550&height=45&color=3498db&vCenter=true&size=22&pause=1000">
   </a>
 </p>
 
