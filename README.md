@@ -24,7 +24,7 @@ Beyond code, I’m a **mentor, advocate, and speaker**, passionate about communi
 I’m currently expanding my reach through **technical writing and content creation**:
 - 📝 Read my articles on [**Medium**](https://techbaddey.medium.com/) and [**Hashnode**](https://hashnode.com/@techbaddey)  
 - 🎥 Watch my tutorials and tech vlogs on [**YouTube**](https://www.youtube.com/@techbaddey)  
-- 💡 I create content around **Frontend Engineering**, **Tech Careers**, and **Personal Growth**
+- 💡 I create content around **Engineering**, **Tech Careers**, and **Personal Growth**
 
 My long-term vision is to grow as a **Techpreneur**, **Author**, and **Public Speaker**, bridging **knowledge, opportunity, and impact** through technology.
 
