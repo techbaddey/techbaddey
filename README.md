@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif" height="270px" width="350px" align="right" alt="Coding animation">
 
 ### 👩‍💻 About Me  
-I’m **Oyinkansola Shoroye** — fondly known as **Techbaddey** — a **Software Engineer** and **Frontend Developer** based in **Lagos, Nigeria** 🇳🇬.  
+I’m **Oyinkansola Shoroye** — fondly known as **Techbaddey** — a **Software Engineer** & **Frontend Developer** based in **Lagos, Nigeria** 🇳🇬.  
 
 My journey into tech began out of curiosity, learning how to code on my own before joining [AltSchool Africa](https://altschoolafrica.com/schools/engineering), where I earned a **Diploma in Frontend Engineering (2023)** while studying **Computer Science**.  
 
